@@ -1,0 +1,19 @@
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+body {
+
+background: #efefef;
+background: url('1.jpg') no-repeat;
+background-size: cover;
+color: white;
+}
+.myclass {
+
+	line-height: 35px;
+	color: red;
+}
+
+
